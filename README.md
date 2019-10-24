@@ -183,3 +183,4 @@
 | CuppaZee | [PWA](https://cuppazee.uk/) | A tool to help players of the Geolocation game [Munzee](https://playmunzee.com/) | v1 |
 | Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
+| Sevisplus | [Website](http://sevisplus.com) | Digital marketplace for subscriptions, digital and local services | v1.2.5
